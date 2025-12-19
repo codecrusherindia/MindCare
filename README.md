@@ -2,7 +2,7 @@ Project Working link - https://codecrush-mindcare.vercel.app
 Chat demo - https://codecrush-mindcare.vercel.app/chatbot
 
 
-The repo connected with vercel hosting is - https://github.com/codecrusherindia/mindcare
+The repo connected with vercel hosting - https://github.com/codecrusherindia/mindcare
 
 # Codecrush MindCare — General Project Information
 
@@ -53,8 +53,3 @@ Target users
 Status
 ------
 - Hackathon MVP in active development. Core frontend components and UX flows are the primary focus for the event; backend and extended features are planned for subsequent iterations.
-
-If you want a one‑paragraph blurb, use this:
-"Codecrush MindCare is a hackathon-built mental‑wellness prototype that helps users quickly log mood and journal entries, access short supportive resources, and build healthier habits. Designed to be fast, accessible, and privacy‑minded, the project uses a modular approach so deeper features (authentication, analytics, mobile support) can be added after the event."
-
-Would you like a short tagline or a two‑sentence pitch for a demo slide?
